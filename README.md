@@ -1,1 +1,0 @@
-# Analysis-of-Static-Noise-Margin-in-SRAM-cells
