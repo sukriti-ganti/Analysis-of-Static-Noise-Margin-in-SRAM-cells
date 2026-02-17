@@ -1,4 +1,4 @@
-**##Comparative Analysis of Static Noise Margin in 6T and 8T SRAM Cells Based on Transistor Sizing##**
+**Comparative Analysis of Static Noise Margin in 6T and 8T SRAM Cells Based on Transistor Sizing**
 
 This project presents a comparative analysis of Static Noise Margin (SNM) in conventional 6T and modified 8T SRAM cells using LTspice simulations. The study focuses on evaluating how transistor sizing, particularly the cell ratio (CR), impacts Hold Static Noise Margin (HSNM) and Read Static Noise Margin (RSNM) in both architectures.
 
